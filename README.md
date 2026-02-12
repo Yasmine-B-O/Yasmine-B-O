@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋, I'm Yasmine 🌸
 
-<!--
-**Yasmine-B-O/Yasmine-B-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👀 Curious and passionate about Computer Science  
+🌱 Engineering student in Computer Science  
+🏫 UM6P – College of Computing (Morocco)  
 
-Here are some ideas to get you started:
+💡 I enjoy learning new technologies, building small projects, and discovering how things work behind the scenes.  
+💞️ I’m open to collaborating on programming projects and, later on, research-related work.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:  
+- Yasmin.BOUABOUF@um6p.ma  
+- bouaboudyasmine54@gmail.com  
+
+---
+
+## 🛠️ Skills & Interests
+- Python 🐍  
+- C / C++  
+- HTML & CSS  
+- JavaScript   
+- Interested in Data Science & Machine Learning 🤖  
+
+---
+
+## 📊 GitHub Stats
