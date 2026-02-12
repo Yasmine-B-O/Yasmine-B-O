@@ -1,4 +1,4 @@
-# Hi 👋, I'm Yasmine 🌸
+# Hi 👋, I'm Yasmin 🌸
 
 👀 Curious and passionate about Computer Science  
 🌱 Engineering student in Computer Science  
